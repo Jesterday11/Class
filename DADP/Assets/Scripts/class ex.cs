@@ -53,7 +53,7 @@ public class classex : MonoBehaviour
     private void Update()
     {
 
-        transform.Rotate(0, rotationSpeed, 0); // Rotate the object around its Y axis eg. coin
+        transform.Rotate( 0, 0, rotationSpeed); // Rotate the object around its Y axis eg. coin
 
     }
 }
