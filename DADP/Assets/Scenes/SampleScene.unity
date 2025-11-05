@@ -21010,6 +21010,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8017449571587430431, guid: b175fef36dd37c348848b16127a3cef2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d366324f5a0ffd47a0df6f9dc88ca69, type: 2}
     - target: {fileID: 919132149155446097, guid: b175fef36dd37c348848b16127a3cef2, type: 3}
       propertyPath: m_Name
       value: player animated fbx
@@ -22231,6 +22235,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3044284370273971144, guid: b19dcc4c63d97584fb56e46d370e3e07, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7172988571234304187, guid: b19dcc4c63d97584fb56e46d370e3e07, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.141435
@@ -22271,6 +22279,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9045935376501706467, guid: b19dcc4c63d97584fb56e46d370e3e07, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d366324f5a0ffd47a0df6f9dc88ca69, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
